@@ -1,0 +1,14 @@
+team: Fruit
+
+manager: Ann
+
+members: 
+- banana
+- apple
+- orange
+- grape
+<<<<<<< HEAD
+- strawberry
+=======
+- melon
+>>>>>>> test04
